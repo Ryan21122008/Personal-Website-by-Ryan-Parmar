@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding-top: 800px;
     font-family: 'Source Sans Pro', sans-serif;
+    text-align:center;
 }
 
 #timbernerslee {
@@ -75,4 +76,10 @@ body {
 }
 .link:hover{
     background-color:#ed0e0e;
+}
+.articles:hover{
+    color:darkblue;
+}
+html{
+    scroll-behavior:smooth;
 }
